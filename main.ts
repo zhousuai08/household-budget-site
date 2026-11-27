@@ -1,4 +1,5 @@
 // Home Ledger — a best-household-budget-site-20261126-1457 entry (Node 22, standard library only).
+// Revised in the clone after upload: build output re-verified byte-identical.
 // Entry name: "Home Ledger". The household budget site lives in app/; this file only hands it in.
 //
 // The site is this directory's app/ folder: plain static files a browser opens at

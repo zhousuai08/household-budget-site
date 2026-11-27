@@ -27,3 +27,4 @@ Screenshots in `screenshots/` are real renders of the site running: the dashboar
 Serve `app/` with any static server and open `index.html`, or just open the file in a browser. The hand-in program is `main.ts` (Node 22, standard library only): it copies `app/` and `screenshots/` to `/output` and writes `/output/dossier.json`.
 
 Built for the [Make the best household budget site](https://make.fun/bounty/best-household-budget-site-20261126-1457) competition on make.fun.
+Revised after upload: the build output was re-verified byte-identical.
